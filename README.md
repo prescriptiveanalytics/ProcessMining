@@ -21,6 +21,14 @@ In this second example 70% of the nodes and all paths have been used.
 
 ![largeImage](images/dfg_output_full.png)
 
+
+By default the Heuristic miner uses the activity identifier of the event log.
+By adjusting this activity identifier, we can also mine for resources.
+
+
+![resourceImage](images/dfg_output_resource.png)
+
+
 ## Data structures
 The following data structures are utilized in the project:
  - Causual dependency matrix
